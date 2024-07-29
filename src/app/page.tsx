@@ -1,5 +1,5 @@
 import NavBar from "./NavBar";
-import { DashBoard } from "./DashBoard/page";
+import  DashBoard  from "./DashBoard/page";
 import { Footer } from "./Footer";
 
 export default function Home() {
